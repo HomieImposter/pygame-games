@@ -1,0 +1,79 @@
+{
+  "Blackjack": {
+    "Description": "Blackjack is a classic casino game where\nyour goal is to get higher than the dealer\nopposite you, but be careful not to go over\n21, or you lose!\n\nUse the betting chips to try your luck and\nsee if you can win big.\nCan you beat Filip Pcion's high score of\n600,000? Or will you lose it all, like he did ;)",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 1700,
+    "Lines": 819,
+    "Players": 1
+  },
+  "Chess": {
+    "Description": "Chess is one of the oldest board games in\nthe world. Your goal is to capture your\nopponent's king whilst defending your own.\n\nEach piece has its own unqiue set of\nmovements that you can use to negotiate\nthe board and checkmate your opponent.\n\nAnd before you ask, yes I pinched the sounds\nfrom chess.com\n\nThis is a two-player game.",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 500,
+    "Lines": 524,
+    "Players": 2
+  },
+  "Connect 4": {
+    "Description": "Connect 4 is a nostalgic family game where\nyou and your opponent are both trying to get\n4 of your counters in a line, either vertical,\nhorizontal or diagonal.\n\nThis is a two-player game.",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 1974,
+    "Lines" : 163,
+    "Players": 2
+  },
+  "Hunt the Wumpus": {
+    "Description": "Hunt the Wumpus is a very old computer\ngame. Originally a text-based exploration\ngame, you are trapped in a dark system of\ncaves and cannot see anything around you.\nYou can sometimes hear, feel, or smell things\ncoming from an adjacent cave but have no\nway of knowing which one.\n\nThere are three things in the caves:\n - The Wumpus. Shoot him with one of your\narrows and you win. Miss, however, and it'll\nrun away. If you accidentally stumble into the\nWumpus, it will eat you.\n - The Bat. If you enter the cave with the bat,\nit will pick you up and drop you off in a\nrandom cave.\n - The Pit. Fall in the pit and you die. However\nyou will feel a gust of wind from a\nneighbouring cave first.",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 1973,
+    "Lines": 302,
+    "Players": 1
+  },
+  "Minesweeper": {
+    "Description": "Minesweeper is a classic video game where\nyou must uncover the terrain without\nexploding any mines.\n\nEach square, when revealed, will tell you how\nmany mines are located in the 8 squares\nsurrounding it. Use this information to flag\nmines with right-click and uncover areas with\nleft-click.",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 1990,
+    "Lines": 307,
+    "Players": 1
+  },
+  "Roulette": {
+    "Description": "Roulette is a classic casino game where you\nbet on what number the ball in the spinning\nwheel will land on. You can bet on an\nindividual number, across several, or many\ndifferent types such as evens or blacks.\nSome have a higher chance of landing on it\nbut will pay out less, and vice versa.\n\nThis is the American version of roulette\nwhich has a double 0. It doesn't change\nmuch, it just makes it a bit harder to win :)",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 1720,
+    "Lines": 330,
+    "Players": 1
+  },
+  "Snake": {
+    "Description": "Snake is potentially the first mobile game.\nYou play as a snake hunting for fruit, getting\nlonger each time you eat. The game gets\nharder the further you progress, however\nsince you lose if you run into a wall or\nyourself.",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 1998,
+    "Lines": 279,
+    "Players": 1
+  },
+  "Solitaire": {
+    "Description": "Solitaire (also called Klondike Solitaire, or\nPatience) is a single-player card game where\nthe goal is to clear the entire board. You do\nso by getting cards in ascending order (Ace\nto King) on the piles at the top left. However\nyou can only move cards on the board in\ndescending (King to Ace) order in\nalternating colours.\n\nEach time you draw a card from the pile in the\ntop-right, you get the third one down. This is\nsometimes called 'hard mode'. No, I can not\nbe bothered to make an 'easy mode'.\n\nAlso, this games has about a 20% chance of\nbeing impossible to win. Don't blame me, I\ndidn't make the rules.",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 1750,
+    "Lines": 552,
+    "Players": 1
+  },
+  "Tetris": {
+    "Description": "Tetris is a classic video game where blocks\nare falling from the top of the screen, and\nyour job is to fit them together so they don't\nreach the top. Every time you fill a row, it gets\ncleared. You get more points the more lines\nyou clear in one go. See if you can get a\nlegendary 'Tetris' by clearing 4 lines at once.\n\nYou can use the hold button (H) to put your\ncurrent piece in the top-left and save it for\nlater, or get out of a sticky situation by\nputting a bad piece in there.\n\nCan you beat Christophe Jones' high score\nof- OVER 6 MILLION?! Good luck.",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 1984,
+    "Lines": 698,
+    "Players": 1
+  },
+  "Uno": {
+    "Description": "Uno is a family card game where your goal is\nto be the first to put down all of your cards.\nYou can only put down a card if it's the same\ncolour or number/symbol as the top of the\ndiscard pile. Some cards will do things to try\nand stop your opponents such as making\nthem pick up cards, skipping their turn or\nreversing the direction of play.\n\nAs far as I'm aware, THESE ARE THE\nOFFICIAL UNO RULES! If you've played\ndifferent rules, I'm so sorry but this is how it\nshould be played.\n\nThe first person to 500 points wins.\nThis is a single-player game; the other 3\nplayers are AIs.",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 1971,
+    "Lines": 817,
+    "Players": 1
+  },
+  "Wordle": {
+    "Description": "Wordle is a game that became massively\npopular this decade, being bought by the\nNew York Times and inspiring many\nspin-offs, such as this one. You get 6 guesses\nto figure out the mystery word. After\nguessing, the letter will either turn grey\n(meaning it is not in the word), yellow\n(it is in the word, but not that position) or\ngreen (in the word, in that position).\n\nThe original wordle had a new word every\nday, however this version lets you play\nforever. And yes, it does use the same word\nlist as the official Wordle.",
+    "Author": "Charlie Hopker, Y10",
+    "Released": 2021,
+    "Lines": 316,
+    "Players": 1
+  }
+}
