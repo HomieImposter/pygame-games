@@ -325,7 +325,7 @@ def roulette():
 
         pygame.display.update()
 
-    balance = 25
+    balance = 25 if not bets else balance
 
 
 if __name__ == "__main__":
